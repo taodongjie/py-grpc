@@ -1,0 +1,5 @@
+grpcio
+protobuf
+grpcio-tools
+mypy-protobuf==2.4
+typing_extensions=3.7.4.3
